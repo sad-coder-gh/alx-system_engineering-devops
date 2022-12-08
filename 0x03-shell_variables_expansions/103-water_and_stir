@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "obase=bestchol; $RESULT" | bc
+echo "obase=bestchol; $RESULT" 
